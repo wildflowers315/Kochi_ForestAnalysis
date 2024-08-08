@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+geopandas
+geemap
+earthengine-api
+spyder
+# dask-ee 
+# pydeck 
+# xee 
+# hypercoast 
+# pyvista 
+# mapclassify
+# scikit-learn
+# torch
+# torchvision
+# rasterio
